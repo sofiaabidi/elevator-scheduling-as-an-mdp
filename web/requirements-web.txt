@@ -1,0 +1,4 @@
+flask>=3.0
+flask-cors>=4.0
+gymnasium>=0.29
+numpy>=1.24
